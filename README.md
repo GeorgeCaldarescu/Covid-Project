@@ -4,7 +4,7 @@ Since I have a biology background I found this dataset relevant in my case and n
 1. **Create a SQL database and import the working table**
 2. **Data exploration**
 3. **Prepare the queries for data visualization with Tableau:**
-  1. total number of deaths
-  2. total deaths grouped by continent
-  3. highest infection and percentage of infected people from each country
-  4. highest infection and percentage of infected people from each country by date. This can be used later to do some prediction in Tableau
+    1. total number of deaths
+    2. total deaths grouped by continent
+    3. highest infection and percentage of infected people from each country
+    4. highest infection and percentage of infected people from each country by date. This can be used later to do some prediction in Tableau
