@@ -76,7 +76,7 @@ where dea.continent is not null
 Select *, (rollingPeopleVaccinated / population) *100
 from popVSvac
 
--- create view for Tableau visualization
+-- create view 
 
 Create view percentPopulationVaccinated as
 Select dea.continent, dea.location, dea.date, dea.population, 
